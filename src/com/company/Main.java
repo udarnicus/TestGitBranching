@@ -13,4 +13,8 @@ public class Main {
     public void importBooks(){
 
     }
+
+    public void importBookCopys(){
+
+    }
 }
