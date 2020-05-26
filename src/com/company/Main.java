@@ -18,6 +18,7 @@ public class Main {
 
     public void importBookCopys(){
         System.out.println("Feature");
+        System.out.println("Feature");
     }
 
     public void importCustomer(){
