@@ -9,6 +9,8 @@ public class Main {
     public static void main(String[] args) {
 	System.out.println("Working");
         System.out.println("Fine");
+        System.out.println("Feature");
+        System.out.println("Feature");
     }
 
     public void importBooks(){
