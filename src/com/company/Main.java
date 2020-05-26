@@ -17,4 +17,8 @@ public class Main {
     public void importBookCopys(){
 
     }
+
+    public void importCustomer(){
+        System.out.println("Working");
+    }
 }
