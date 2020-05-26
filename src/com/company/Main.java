@@ -15,6 +15,7 @@ public class Main {
 
     public void importBooks(){
         System.out.println("asdf");
+        System.out.println("asdf");
 
     }
 
