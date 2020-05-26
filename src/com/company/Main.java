@@ -27,6 +27,10 @@ public class Main {
         System.out.println("Feature");
         System.out.println("Feature");
         System.out.println("Feature");
+        System.out.println("Feature");
+        System.out.println("Feature");
+        System.out.println("Feature");
+        System.out.println("Feature");
     }
 
     public void importCustomer(){
