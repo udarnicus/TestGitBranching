@@ -40,4 +40,9 @@ public class Main {
     public void importCustomer(){
         System.out.println("Working Well and");
     }
+
+    public void addBook(){
+        System.out.println("Working Well and");
+    }
 }
+
